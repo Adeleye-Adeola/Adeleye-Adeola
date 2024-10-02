@@ -33,7 +33,7 @@ const Adeola = {
 ```
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJamesunekwuojo%2Fjamesunekwuojo%2F&countColor=%23263759)
  
-<a href="https://wakatime.com/@018bc8ee-3be3-4ba3-a773-395aa19a0efe"><img src="https://wakatime.com/badge/user/018bc8ee-3be3-4ba3-a773-395aa19a0efe.svg" alt="Total time coded since Nov 13 2023" /></a>
+<a href="https://wakatime.com/@018bc8ea-44fc-489e-8d78-cf338ff0586b"><img src="https://wakatime.com/badge/user/018bc8ea-44fc-489e-8d78-cf338ff0586b.svg" alt="Total time coded since Nov 13 2023" /></a>
 
 
 ## 💻 Tech Stack:
