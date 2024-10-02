@@ -30,8 +30,9 @@ const Adeola = {
 }
 
 
+```![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdeleye-Adeola%2FAdeleye-Adeolao%2F&countColor=%23263759)
 ```
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdeleye-Adeola%2FAdeleye-Adeolao%2F&countColor=%23263759) <br />
+ <br />
 <a href="https://wakatime.com/@018bc8ea-44fc-489e-8d78-cf338ff0586b"><img src="https://wakatime.com/badge/user/018bc8ea-44fc-489e-8d78-cf338ff0586b.svg" alt="Total time coded since Nov 13 2023" /></a>
 
 
