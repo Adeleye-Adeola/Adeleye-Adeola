@@ -16,7 +16,7 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Adeleye+Erioluwa+Adeola;I+am+a+professional+Software+Engineer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Adeleye+Erioluwa+Adeola;A+professional+Software+Engineer" alt="Typing SVG" /></a></h1>
 <h3 align="center"> passionate software engineering enthusiast with a love for coding, eager to learn, grow, and explore the limitless possibilities of technology.</h3>
 
 ```javascript
